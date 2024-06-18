@@ -1,0 +1,2 @@
+root: D:\image convert nextopson\server\backend\public
+path: D:\image convert nextopson\server\backend\public
